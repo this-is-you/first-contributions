@@ -58,6 +58,7 @@ what
 | Bahasa Melayu | [Malay](../translations/README.my.md) | []() |
 | Nederlandse | [Dutch](../translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
 | Norsk | [Norwegian](../translations/README.no.md) | []() |
+nope
 | नेपाली | [Nepali](../translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
 | ਪਨਜਾਬੀ | [Punjabi](../translations/README.pa.md) | []() |
 | Polski | [Polish](../translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
