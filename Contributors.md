@@ -143,6 +143,12 @@ Franco Lai
 - [Mohammad Haaris Javed](https://github.com/haaris272k)
 - [Watrgoat](https://github.com/watrgoat)
 - Robonova 8)
+- more
+- than
+- one
+- line
+- change
+- am I right?
 - Ume-Salma
 - [Brenden Blake](https://github.com/blakebt)
 - [Nadine Oka](https://github.com/nadineoka)
