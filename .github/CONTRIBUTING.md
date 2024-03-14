@@ -8,6 +8,9 @@ If you're making changes to a translation, please request a review from our prev
 
 ### Our reviewers :sparkles:
 
+🎉
+🥇
+🖖
 | Language Name | Name in English | Reviewers|
 |---|---|---|
 | Afrikaans | [Afrikaans](../translations/README.afk.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) |
@@ -38,6 +41,7 @@ If you're making changes to a translation, please request a review from our prev
 | Chhattisgarhi | [Chhattisgarhi](../translations/README.hne.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/54806739?s=400&v=4" alt="@pradyyadav" />](https://github.com/pradyyadav) |
 | Magyar | [Hungarian](../translations/README.hu.md) | []() |
 | Armenian | [Armenian](../translations/README.hy.md) | []() |
+what
 | Indonesian | [Indonesian](../translations/README.id.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/315048?s=460&v=4" alt="@hahn" />](https://github.com/hahn) |
 | Igbo | [Igbo](../translations/README.igb.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) []() |
 | Italiano | [Italian](../translations/README.it.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/22260641?s=460&v=4" alt="@platipo" />](https://github.com/platipo) |
@@ -57,6 +61,7 @@ If you're making changes to a translation, please request a review from our prev
 | Bahasa Melayu | [Malay](../translations/README.my.md) | []() |
 | Nederlandse | [Dutch](../translations/README.nl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3897815?s=460&v=4" alt="@MJMajoor" />](https://github.com/MJMajoor) |
 | Norsk | [Norwegian](../translations/README.no.md) | []() |
+nope
 | नेपाली | [Nepali](../translations/README.np.md) | [<img width="100" src="https://avatars2.githubusercontent.com/u/2145263?s=460&v=4" alt="@milap-neupane" />](https://github.com/milap-neupane) |
 | ਪਨਜਾਬੀ | [Punjabi](../translations/README.pa.md) | []() |
 | Polski | [Polish](../translations/README.pl.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/3372341?s=460&v=4" alt="@P1X3L0V4" />](https://github.com/P1X3L0V4) [<img width="100" src="https://avatars2.githubusercontent.com/u/1311358?v=4" alt="@mikowhy" />](https://github.com/mikowhy) |
