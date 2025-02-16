@@ -6,6 +6,7 @@
 * [Mark Tu](https://github.com/MarksTheme)
 
 - [Allan Moura](https://github.com/allansmora/)
+- [Asgor Ali](https://github.com/i-asgor)
 - [LJ](https://github.com/ljolly30)
 - [Raghav Garg] (https://github.com/GargRaghav17)
 - [Rishav Rajak](https://github.com/rik030)
