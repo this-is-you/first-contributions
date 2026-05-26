@@ -142,6 +142,7 @@ Franco Lai
 - [Mohammed Saayim]
 - [Jerin Saji](https://github.com/jerin-saji)
 - [Sajan Kuttipuravan](https://github.com/sajankp)
+- Ashly Joseph
 - [Mohammad Haaris Javed](https://github.com/haaris272k)
 - [Watrgoat](https://github.com/watrgoat)
 - Robonova 8)
